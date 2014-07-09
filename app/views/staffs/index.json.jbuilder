@@ -1,0 +1,1 @@
+json.partial! partial: "staffs/staff", collection: @staffs, as: :staff

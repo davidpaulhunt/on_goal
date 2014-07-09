@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 
+  home: 1
+  away: 1
+
+two:
+  date: 
+  home: 1
+  away: 1
